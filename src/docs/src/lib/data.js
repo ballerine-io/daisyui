@@ -596,14 +596,7 @@ export let pages = [
         href: "/components/stack",
         icon: "",
         badge: "",
-      },
-      {
-        name: "Toast",
-        tags: "toast notification snackbar",
-        href: "/components/toast",
-        icon: "",
-        badge: "",
-      },
+      }
     ],
   },
   {
